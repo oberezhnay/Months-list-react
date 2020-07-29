@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React JS application as a test task for React.js school 
 
 ## Available Scripts
 
